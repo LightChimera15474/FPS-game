@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d24a9fd951e1dcb46b64a5e0f7d78585, type: 3}
+  m_Name: TestEnemy
+  m_EditorClassIdentifier: 
+  _name: Red cube
+  _type: test enemy
+  _maxHealth: 100
+  _enemyLevel: 1
+  _damage: 10
+  _distance: 5
+  _fireRate: 10
+  _droppedEXP: 25
+  _droppedItem: []
